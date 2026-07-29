@@ -1,5 +1,3 @@
-import { Link } from 'react-router-dom'
-import { AnimatedButton } from '../components/ui/AnimatedButton'
 import { GlassCard } from '../components/ui/GlassCard'
 
 export function ThankYouPage() {
